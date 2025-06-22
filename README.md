@@ -2,7 +2,6 @@
 
 A machine learning project that explores various classification algorithms on the classic **Wine dataset**. This repository demonstrates model training, evaluation, and comparison using multiple supervised learning techniques.
 
----
 
 ## 📊 Dataset
 
@@ -10,7 +9,6 @@ A machine learning project that explores various classification algorithms on th
 - Contains chemical analysis of wines grown in the same region in Italy but derived from three different cultivars.
 - 13 features, 3 classes
 
----
 
 ## 🧠 Models Implemented
 
@@ -24,7 +22,6 @@ This project implements and compares the following ML algorithms:
 - ✅ Random Forest  
 - ✅ AdaBoost
 
----
 
 ## ⚙️ Features
 
@@ -36,7 +33,6 @@ This project implements and compares the following ML algorithms:
   - Confusion Matrix
 - Comparative analysis of model performance
 
----
 
 ## 🛠️ Libraries Used
 
